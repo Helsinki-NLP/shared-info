@@ -24,4 +24,4 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 ## References 
 - [1] Hassan, H. et al. (2018). Achieving Human Parity on Automatic Chinese to English News Translation. In: In: *e-print arXiv:1803.05567*
 - [2] Johnson, M. et al. (2016). Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation. In: *eprint arXiv:1611.04558*
-- [3] Vaswani, A. (2017). Attention is all you need. In: *eprint arXiv:1706.03762* 
+- [3] Vaswani, A. et al. (2017). Attention is all you need. In: *eprint arXiv:1706.03762* 
