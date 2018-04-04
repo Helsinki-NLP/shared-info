@@ -19,7 +19,7 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 > New ideas and proposals are VERY WELCOME!
 - google's [intro to The Transformer](https://arxiv.org/pdf/1706.03762.pdf)[4],
 - microsoft's [acheiving Human Parity](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf) [2]
-- 
+- better undestanding the current state of the art for SNLI.
 
 ## References 
 - [1] Samuel R. Bowman et al. (2015) A large annotated corpus for learning natural language inference. In: *Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. Association for Computational Linguistics.
