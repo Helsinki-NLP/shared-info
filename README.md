@@ -12,16 +12,17 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 
 
 ### Calendar
-- **Wed-28.03.2018** [Google's Multilingual NMT: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) [2] discussion guided by J Raul Vazquez 
-- **Xxx-dd.04.2018** 
+- **Wed-28.03.2018** [Google's Multilingual NMT: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) [3] discussion guided by J Raul Vazquez 
+- **Wed-13.04.2018** [A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf) [1] discussion guided by Aarne Talmann
 
 ### Articles of Interest 
 > New ideas and proposals are VERY WELCOME!
-- google's [intro to The Transformer](https://arxiv.org/pdf/1706.03762.pdf)[3],
-- microsoft's [acheiving Human Parity](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf) [1]
+- google's [intro to The Transformer](https://arxiv.org/pdf/1706.03762.pdf)[4],
+- microsoft's [acheiving Human Parity](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf) [2]
 - 
 
 ## References 
-- [1] Hassan, H. et al. (2018). Achieving Human Parity on Automatic Chinese to English News Translation. In: In: *e-print arXiv:1803.05567*
-- [2] Johnson, M. et al. (2016). Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation. In: *eprint arXiv:1611.04558*
-- [3] Vaswani, A. et al. (2017). Attention is all you need. In: *eprint arXiv:1706.03762* 
+- [1] Samuel R. Bowman et al. (2015) A large annotated corpus for learning natural language inference. In: *Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. Association for Computational Linguistics.
+- [2] Hassan, H. et al. (2018). Achieving Human Parity on Automatic Chinese to English News Translation. In: In: *e-print arXiv:1803.05567*
+- [3] Johnson, M. et al. (2016). Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation. In: *eprint arXiv:1611.04558*
+- [4] Vaswani, A. et al. (2017). Attention is all you need. In: *eprint arXiv:1706.03762* 
