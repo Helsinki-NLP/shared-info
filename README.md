@@ -13,7 +13,7 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 
 ### Calendar
 - **Wed-28.03.2018** [Google's Multilingual NMT: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) [3] discussion guided by J Raul Vazquez 
-- **Wed-13.04.2018** [A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf) [1] discussion guided by Aarne Talmann
+- **Fri-13.04.2018** [A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf) [1] discussion guided by Aarne Talmann
 
 ### Articles of Interest 
 > New ideas and proposals are VERY WELCOME!
