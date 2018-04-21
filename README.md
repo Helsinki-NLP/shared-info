@@ -7,7 +7,6 @@ In a nutshell, on every session one of the participants will present 1 research 
 
 We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsätalo (unless otherwise stated). 
 
-**NOTE:** *Fixed day and time for the following will be discussed on the 1st meeting* 
 > For this to work smoothly, it is highly recommendable that all the attendants to a session had read the paper in turn.
 
 
@@ -18,7 +17,6 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 
 ### Articles of Interest 
 > New ideas and proposals are VERY WELCOME!
-- google's [intro to The Transformer](https://arxiv.org/pdf/1706.03762.pdf)[4],
 - microsoft's [acheiving Human Parity](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf) [2]
 - better undestanding the current state of the art for SNLI.
 
