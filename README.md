@@ -9,12 +9,15 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 
 > For this to work smoothly, it is highly recommendable that all the attendants to a session had read the paper in turn.
 
+### Next session  
+
+**Wed-09.05.2018** at 13:00 [to be announced](https://arxiv.org/) [XX] discussion guided by Yves Scherer
 
 ### Calendar
-- **Wed-28.03.2018** [Google's Multilingual NMT: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) [3] discussion guided by J Raul Vazquez 
-- **Fri-13.04.2018** [A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf) [1] discussion guided by Aarne Talmann
-- **Thu-26.04.2018** [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) [4] discussion guided by Alessandro Raganato
-- **Wed-09.05.2018** [to be announced](https://arxiv.org/) [XX] discussion guided by Yves Scherer
+- **Wed-28.03.2018** at 13:00 [Google's Multilingual NMT: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) [3] discussion guided by J Raul Vazquez 
+- **Fri-13.04.2018** at 11:00 [A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf) [1] discussion guided by Aarne Talmann
+- **Thu-26.04.2018** at 10:00 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) [4] discussion guided by Alessandro Raganato
+- **Wed-09.05.2018** at 13:00 [to be announced](https://arxiv.org/) [XX] discussion guided by Yves Scherer
 - **Xxx-dd.05.2018** [to be announced](https://arxiv.org/) [YY] discussion guided by Umut Sulubacak
 - **Xxx-dd.06.2018** [to be announced](https://arxiv.org/) [ZZ] discussion guided by Hande Celikkanat
 
