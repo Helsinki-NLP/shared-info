@@ -9,7 +9,7 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 
 > For this to work smoothly, it is highly recommendable that all the attendants to a session had read the paper in turn.
 
-### Next session  
+## Next session  
 
 **Wed-09.05.2018** at 13:00 [to be announced](https://arxiv.org/) [XX] discussion guided by Yves Scherer
 
