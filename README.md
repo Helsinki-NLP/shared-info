@@ -11,10 +11,10 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 
 ## Next session  
 
-**Wed-09.05.2018** at 13:00 [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf) [2] discussion guided by Yves Scherrer
+**Wed-06.06.2018** at 15:00 [Measuring the Intrinsic Dimension of Objective Landscapes](https://arxiv.org/pdf/1804.08838.pdf) [7] discussion guided by Hande Celikkanat
 
 ### Calendar
-- **DDD-dd.06.2018** at hh:mm [to be announced](https://arxiv.org/) [REF] discussion guided by Hande Celikkanat
+- **Wed-06.06.2018** at 15:00 [Measuring the Intrinsic Dimension of Objective Landscapes](https://arxiv.org/pdf/1804.08838.pdf) [7] discussion guided by Hande Celikkanat
 - **Fri-25.05.2018** at 15:00 [Advances in Pre-Training Distributed Word Representations](http://www.lrec-conf.org/proceedings/lrec2018/pdf/721.pdf) [5] and [Learning Word Vectors for 157 Languages](http://www.lrec-conf.org/proceedings/lrec2018/pdf/627.pdf) [6] discussion guided by Umut Sulubacak
 - **Wed-09.05.2018** at 13:00 [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf) [2] discussion guided by Yves Scherrer
 - **Thu-26.04.2018** at 10:00 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) [4] discussion guided by Alessandro Raganato
@@ -32,3 +32,4 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 - [4] Vaswani, A. et al. (2017). Attention is all you need. In: NIPS 2017
 - [5] Mikolov, T. et al. (2018). Advances in Pre-Training Distributed Word Representations. In: LREC 2018
 - [6] Grave, E. and Bojanowski, P. et al. (2018). Learning Word Vectors for 157 Languages. In: LREC 2018
+- [7] Li, C. et al. (2018). Measuring the Intrinsic Dimension of Objective Landscapes. In: ICLR 2018
