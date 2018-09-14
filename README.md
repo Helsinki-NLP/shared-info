@@ -11,12 +11,12 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 
 ## Next session  
 
-- **Thu-21.09.2018** at 14:15 [A neural intelringua for multilingual machine translation](https://arxiv.org/dpf/1804.08198v2.pdf) [9] discussion guided by J Raul Vazquez
+- **Thu-21.09.2018** at 14:15 [A neural intelringua for multilingual machine translation](https://arxiv.org/dpf/1804.08198v2.pdf) [9] and [Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/dpf/1704.04154v2.pdf) [10] discussion guided by J Raul Vazquez
 
 ### Calendar
 
 #### AUTUM TERM 2018
-- **Thu-21.09.2018** at 14:15 [A neural intelringua for multilingual machine translation](https://arxiv.org/dpf/1804.08198v2.pdf) [9] discussion guided by J Raul Vazquez
+- **Thu-21.09.2018** at 14:15 [A neural intelringua for multilingual machine translation](https://arxiv.org/dpf/1804.08198v2.pdf) [9] and [Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/dpf/1704.04154v2.pdf) [10]  discussion guided by J Raul Vazquez
 - **Thu-13.09.2018** at 14:15 [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf) [8] discussion guided by Hande Celikkanat
 
 #### SPRING TERM 2018
@@ -41,3 +41,4 @@ We shall meet on a bi-weekly basis in the coffee room on the 6th floor of Metsä
 - [7] Li, C. et al. (2018). Measuring the Intrinsic Dimension of Objective Landscapes. In: ICLR 2018
 - [8] Lample, G. et al. (2018). Phrase-Based & Neural Unsupervised Machine Translation. In *e-print arXiv:1804.07755*
 - [9] Lu, Y. et. al (2018). A neural intelringua for multilingual machine translation. In: *e-print arXiv:1804.08198v2*
+- [10] Schwenk, H. and Douze, M.(2017). Learning Joint Multilingual Sentence Representations with Neural Machine Translation. In: *e-print arXiv:1704.04154v2*
