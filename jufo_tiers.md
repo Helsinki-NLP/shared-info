@@ -16,7 +16,7 @@
 |   **1**   | EMNLP    | Conference | _Empirical Methods in Natural Language Processing_                |
 |   **1**   | LREC     | Conference | _Language Resources and Evaluation Conference_                    |
 |   **1**   | NAACL    | Conference | _Conference of the North American Chapter of ACL_                 |
-|   **1**   | TACL     | Conference | _Transactions of ACL_                                             |
+|   **1**   | TACL     | Journal    | _Transactions of ACL_                                             |
 |   **?**   | CoNLL    | Conference | _Conference on Natural Language Learning_                         |
 |   **?**   | RANLP    | Conference | _Recent Advances in Natural Language Processing_                  |
 |   **?**   | NoDaLiDa | Conference | _Nordic Conference on Computational Linguistics_                  |
